@@ -1,0 +1,13 @@
+F:\Github repos\Connect4\bin\Debug\netcoreapp3.1\Connect4.exe
+F:\Github repos\Connect4\bin\Debug\netcoreapp3.1\Connect4.deps.json
+F:\Github repos\Connect4\bin\Debug\netcoreapp3.1\Connect4.runtimeconfig.json
+F:\Github repos\Connect4\bin\Debug\netcoreapp3.1\Connect4.runtimeconfig.dev.json
+F:\Github repos\Connect4\bin\Debug\netcoreapp3.1\Connect4.dll
+F:\Github repos\Connect4\bin\Debug\netcoreapp3.1\Connect4.pdb
+F:\Github repos\Connect4\obj\Debug\netcoreapp3.1\Connect4.csprojAssemblyReference.cache
+F:\Github repos\Connect4\obj\Debug\netcoreapp3.1\Connect4.AssemblyInfoInputs.cache
+F:\Github repos\Connect4\obj\Debug\netcoreapp3.1\Connect4.AssemblyInfo.cs
+F:\Github repos\Connect4\obj\Debug\netcoreapp3.1\Connect4.csproj.CoreCompileInputs.cache
+F:\Github repos\Connect4\obj\Debug\netcoreapp3.1\Connect4.dll
+F:\Github repos\Connect4\obj\Debug\netcoreapp3.1\Connect4.pdb
+F:\Github repos\Connect4\obj\Debug\netcoreapp3.1\Connect4.genruntimeconfig.cache
