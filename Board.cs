@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Connect4
 {
@@ -16,15 +14,17 @@ namespace Connect4
                 {"- ", "- ", "- ", "- ", "- ", "- ", "- "},
             };
 
-        public void Add(string _player, int _column)
+        public int Add(string _player, int _column)
         {
             for (int i = 6; i > 0; i--)
             {
                 if (this.boardArray[i, _column] == "- ")
                 {
                     this.boardArray[i, _column] = _player + " ";
+                    return 1;
                 }
             }
+            return 0;
         }
 
         public void Display()
